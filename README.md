@@ -1,4 +1,5 @@
 # Axon Classic Vehicles Sales Dashboard
+![Classic-car-illustration](https://github.com/ridhed/Axon-Sales-Dashboard-/assets/83410546/437d360b-ab76-4aa2-a0f1-c13490db658b)
 
 ## 1. Cover page
 
