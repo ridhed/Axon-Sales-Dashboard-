@@ -1,5 +1,6 @@
 # Axon Classic Vehicles Sales Dashboard
-![Classic-car-illustration](https://github.com/ridhed/Axon-Sales-Dashboard-/assets/83410546/437d360b-ab76-4aa2-a0f1-c13490db658b)
+![Screenshot 2025-06-26 004834](https://github.com/user-attachments/assets/dfbed000-2404-47f1-bf04-748bd1b49dab)
+
 
 ## 1. Cover page
 
@@ -8,6 +9,7 @@
 - There are a total of 2996 customers who purchased those vehicles and placed a total of 2996 orders.
 
 ## 2. Sales Overview
+![Screenshot 2025-06-26 004857](https://github.com/user-attachments/assets/c81830d7-64a1-4d87-9122-d017cc2c9158)
 
 ### Charts and Insights
 
@@ -30,6 +32,7 @@
 - Summer months recorded the lowest order counts.
 
 ## 3. Customer Analysis
+![Screenshot 2025-06-26 004919](https://github.com/user-attachments/assets/80ae7644-96bb-4e94-a09c-d677d08e2386)
 
 ### Charts and Insights
 
@@ -48,6 +51,7 @@
 - Customers in the high credit limit segment tend to have higher average purchase amounts compared to other segments. However, the number of transactions is lower.
 
 ## 4. Product Analysis
+![Screenshot 2025-06-26 004942](https://github.com/user-attachments/assets/5f4f8c44-e618-4704-be68-0ec78c029fda)
 
 ### Charts and Insights
 
@@ -64,6 +68,7 @@
 - The company can consider adjusting storage for Classic Cars to reduce inventory and free up capital.
 
 ## 5. Sales Forecasting using Forecast in the Analytics panel
+![Screenshot 2025-06-26 005001](https://github.com/user-attachments/assets/f29616f7-3e43-44f7-ab59-7a399dc78c6e)
 
 ### Insights
 - Sales are forecasted to decrease after 2005 and keep decreasing until 2007.
